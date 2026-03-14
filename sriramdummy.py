@@ -1,1 +1,1 @@
-print("Sri Ram is dummy")
+print("Sri is dummy")

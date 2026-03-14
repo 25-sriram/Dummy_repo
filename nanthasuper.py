@@ -1,1 +1,3 @@
 print("Nantha is Super")
+print("Nantha is Super")
+print("Nantha is Super")
