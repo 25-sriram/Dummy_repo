@@ -3,3 +3,5 @@ print("Nantha is Super")
 print("Nantha is Super")
 print("Nantha is Super")
 print("Sri is dummy")
+i = 5
+print(i)
