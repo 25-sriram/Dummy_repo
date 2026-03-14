@@ -8,3 +8,4 @@ print(i)
 print("5")
 a = 10
 print(a)
+print("30")
