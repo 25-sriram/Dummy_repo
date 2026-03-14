@@ -1,3 +1,3 @@
 def func():
-  print("Hello World")
+  print("Hello Sri")
 func()
