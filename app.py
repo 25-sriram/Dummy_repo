@@ -4,3 +4,6 @@ def func():
   b=9
   print(a+b)
 func()
+
+
+
