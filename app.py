@@ -5,10 +5,3 @@ def func():
   print(a+b)
 func()
 
-
-print("Nantha is Super")
-print("Nantha is Super")
-print("Nantha is Super")
-print("Nantha is Super")
-print("Nantha is Super")
-
