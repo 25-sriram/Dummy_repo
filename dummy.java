@@ -37,6 +37,5 @@ public class TaskManager {
         // Final output
         manager.showSortedTasks();
         System.out.println("\nProgram closed. Happy productivity!");
-        scanner.close();
     }
 }
