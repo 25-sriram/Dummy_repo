@@ -7,5 +7,3 @@ def func():
 func()
 
 =======
-print("Hello World!")
->>>>>>> 74bace7f501a0265c53fbb1f1bce7a0938ff1f37
