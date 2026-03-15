@@ -6,4 +6,8 @@ def func():
   print(a+b)
 func()
 
+
+
+func()
+
 =======
