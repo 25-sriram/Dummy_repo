@@ -2,10 +2,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * A simple Task Manager program to demonstrate classes, 
- * ArrayLists, and functional logic in Java.
- */
 public class TaskManager {
 
     // Global list to store task names
