@@ -14,17 +14,6 @@ public class TaskManager {
     }
 
     // Function to display tasks in alphabetical order
-    public void showSortedTasks() {
-        if (tasks.isEmpty()) {
-            System.out.println("The list is currently empty.");
-            return;
-        }
-        Collections.sort(tasks);
-        System.out.println("\n--- Your To-Do List (Sorted) ---");
-        for (int i = 0; i < tasks.size(); i++) {
-            System.out.println((i + 1) + ". " + tasks.get(i));
-        }
-    }
 
     public static void main(String[] args) {
         TaskManager manager = new TaskManager();
