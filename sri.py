@@ -1,11 +1,6 @@
 from abc import ABC, abstractmethod
 
 
-# 2. Component (Composition: A Car "owns" its Battery)
-class Battery:
-    def __init__(self, capacity=75):
-        self.capacity = capacity
-        self.charge_level = 100
 
     def consume(self, amount):
         self.charge_level = max(0, self.charge_level - amount)
