@@ -2,10 +2,7 @@ from abc import ABC, abstractmethod
 
 
 
-    def consume(self, amount):
-        self.charge_level = max(0, self.charge_level - amount)
-        print(f"Battery at {self.charge_level}%")
-
+   
 # 3. Component (Aggregation: A Fleet "has" Drivers)
 class Driver:
     def __init__(self, name, license_id):
